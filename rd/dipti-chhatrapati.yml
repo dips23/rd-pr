@@ -2,7 +2,7 @@
 uid: rd.dipti-chhatrapati
 name: Dipti Chhatrapati
 metadata:
-  title: Dipti Chhatrapati - Microsoft Regional Director, [add professional title]
+  title: Dipti Chhatrapati - Microsoft Regional Director, SharePoint Architect - Microsoft Practice Manager
   description: Microsoft Regional Director
 remarks: |
   ## Bio
@@ -11,10 +11,10 @@ tagline: Tagline1 / Tagline2 / Tagline3
 image:
   alt: "Dipti Chhatrapati"
   src: media/profiles/dipti-chhatrapati.jpg
-facebook: https://facebook.com/yourprofile
-twitter: https://twitter.com/yourprofile
-linkedin: https://linkedin.com/in/yourprofile
+facebook: https://www.facebook.com/dipti.chhatrapati
+twitter: https://twitter.com/dips84
+linkedin: https://www.linkedin.com/in/dipti-chhatrapati-33582b7
 location:
-  display: [City], [State, if applicable], [Country]
-  lat: [decimal latitude]
-  long: [decimal longitude]
+  display: Navi Mumbai,Maharashtra,India
+  lat: 19.128137
+  long: 72.995622
